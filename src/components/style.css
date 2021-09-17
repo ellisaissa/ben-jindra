@@ -1,0 +1,42 @@
+* {
+    background-color: black;
+}
+
+header {
+    color: white;
+    text-transform: capitalize;
+    text-emphasis: bold;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 85px;
+}
+h1 {
+    color:white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+}
+
+.paragraph {
+    color:beige;
+    font-size: 25px;
+    font-family: inherit;
+    text-align: justify;
+}
+
+.container {
+    color:#9BC7FF;
+}
+.image {
+    height: 35%;
+    width: 35%;
+    border-color: #9BC7FF;
+    border-width: thin;
+    float: right;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}

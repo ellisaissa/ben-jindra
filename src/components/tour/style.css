@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color:black;
+  }
+
+.Tour {
+    color: whitesmoke;
+    font-family: inherit;
+    font-size: 100px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Shadows Into Light', cursive;
+}   
+
+.a:link {
+    text-decoration: none;
+    font-size: 50px;
+    font-family:'Shadows Into Light', cursive;
+}
+
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
