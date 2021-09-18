@@ -22,6 +22,17 @@ body, html {
   .img2 { background-image: url("https://scontent.fdet1-1.fna.fbcdn.net/v/t1.6435-9/238592400_936576136893131_7465777544599787629_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=a26aad&_nc_ohc=csWWTOBGP18AX8emsBm&_nc_ht=scontent.fdet1-1.fna&oh=13de47e98375cfa5f3ea5ada32603659&oe=61664968"); }
   .img3 { background-image: url("https://scontent.fdet1-1.fna.fbcdn.net/v/t1.6435-9/117951486_703242650226482_6307999870670813169_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=a26aad&_nc_ohc=gwIu_TKgsY8AX-oydjz&tn=-796B_bBah2b727p&_nc_ht=scontent.fdet1-1.fna&oh=6c9c3a4a358a97a3dafda109023306b3&oe=6169A89B"); }
   .img4 {background-image: url("https://scontent.fdet1-2.fna.fbcdn.net/v/t1.6435-9/39986207_310209266196491_5629156701333618688_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=9267fe&_nc_ohc=LUgfh5fUCjkAX_oPIo_&_nc_ht=scontent.fdet1-2.fna&oh=ab25a41b7a8670d68e86fe88932ae6e3&oe=6169D06B")}
+
+  .Tour {
+    color: black;
+    font-family: inherit;
+    font-size: 100px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    font-family:'Shadows Into Light', cursive;
+  }
   
   /* Position text in the middle of the page/image */
   .bg-text {
