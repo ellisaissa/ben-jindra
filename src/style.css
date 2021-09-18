@@ -25,13 +25,32 @@ body, html {
 
   .Tour {
     color: black;
-    font-family: inherit;
     font-size: 100px;
     position: absolute;
     top: 25%;
     left: 25%;
     transform: translate(-50%, -50%);
     font-family:'Shadows Into Light', cursive;
+  }
+
+  .About {
+    color: black;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 100px;
+    position: absolute;
+    top: 125%;
+    right:15%;
+    transform: translate(-50%, -50%);
+  }
+
+  .Music {
+    color: black;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 100px;
+    position: absolute;
+    top: 200%;
+    left:15%;
+    transform: translate(-50%, -50%);
   }
   
   /* Position text in the middle of the page/image */
