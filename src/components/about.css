@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color:rgb(39, 36, 36);
 }
 
 header {
@@ -11,16 +11,16 @@ header {
     font-size: 85px;
 }
 h1 {
-    color:white;
+    color:rgb(238, 223, 223);
     font-family: 'Shadows Into Light', cursive;
     font-size: 50px;
 }
 
 .paragraph {
-    color:beige;
+    color:rgb(238, 223, 223);
     font-size: 25px;
-    font-family: inherit;
-    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 .container {
@@ -33,6 +33,11 @@ h1 {
     border-width: thin;
     float: right;
     margin-left: 10px;
+}
+
+.nav {
+    color: whitesmoke;
+    font-family:'Shadows Into Light', cursive;
 }
 
 @media screen and (max-width: 800px) {
