@@ -21,11 +21,10 @@ h1 {
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    padding: 10px;
+    line-height: 50px;
 }
 
-.container {
-    color:#9BC7FF;
-}
 .image {
     height: 35%;
     width: 35%;
@@ -38,6 +37,7 @@ h1 {
 .nav {
     color: whitesmoke;
     font-family:'Shadows Into Light', cursive;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 800px) {
