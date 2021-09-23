@@ -34,9 +34,10 @@ h1 {
     margin-left: 10px;
 }
 
-.nav {
+a:link{
     color: whitesmoke;
-    font-family:'Shadows Into Light', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
     text-decoration: none;
 }
 

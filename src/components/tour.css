@@ -19,10 +19,10 @@
     font-family:'Shadows Into Light', cursive;
 }   
 
-.a:link {
+a:link{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
     text-decoration: none;
-    font-size: 50px;
-    font-family:'Shadows Into Light', cursive;
 }
 
 @media screen and (max-width: 800px) {
