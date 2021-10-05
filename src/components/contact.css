@@ -1,5 +1,5 @@
 * {
-  background-color: black;
+  background-color: rgb(27, 26, 26);
 }
 
 /* Style all font awesome icons */
@@ -18,14 +18,12 @@
 .fa-facebook {
   background: #3B5998;
   color: white;
-  padding-top: 15px;
 }
 
 .fa-instagram {
   background-color:blueviolet;
   color:white;
   font-size: 100px;
-  padding-top: 15px;
 }
 
 a:link{
