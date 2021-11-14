@@ -18,10 +18,10 @@ body, html {
   }
   
   /* Images used */
-  .img1 { background-image: url("https://scontent.fdet1-2.fna.fbcdn.net/v/t1.6435-9/71804341_498139167403499_6541105999191736320_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=9267fe&_nc_ohc=n0UiAEzykgEAX_tU6jn&_nc_ht=scontent.fdet1-2.fna&oh=3536d9c595628847f35b36d8884fc7d7&oe=6167C46B"); }
-  .img2 { background-image: url("https://scontent.fdet1-1.fna.fbcdn.net/v/t1.6435-9/238592400_936576136893131_7465777544599787629_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=a26aad&_nc_ohc=csWWTOBGP18AX8emsBm&_nc_ht=scontent.fdet1-1.fna&oh=13de47e98375cfa5f3ea5ada32603659&oe=61664968"); }
-  .img3 { background-image: url("https://scontent.fdet1-1.fna.fbcdn.net/v/t1.6435-9/117951486_703242650226482_6307999870670813169_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=a26aad&_nc_ohc=gwIu_TKgsY8AX-oydjz&tn=-796B_bBah2b727p&_nc_ht=scontent.fdet1-1.fna&oh=6c9c3a4a358a97a3dafda109023306b3&oe=6169A89B"); }
-  .img4 {background-image: url("https://scontent.fdet1-1.fna.fbcdn.net/v/t1.6435-9/241509973_941051006445644_3029106840505540045_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=a26aad&_nc_ohc=O6qP10Q8YPYAX8sCydQ&_nc_ht=scontent.fdet1-1.fna&oh=7ab5998fadd436f71cb7f8f21bfb8ade&oe=616AB58D")}
+  .img1 { background-image:url("https://scontent.fdet1-2.fna.fbcdn.net/v/t39.30808-6/241533539_941051009778977_1995986781067375293_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=973b4a&_nc_ohc=Czc3CafXjPUAX_zclMP&_nc_ht=scontent.fdet1-2.fna&oh=82ac253ca920553be5b976c443d8a665&oe=6194B6EF"); }
+  .img2 { background-image: url("https://scontent.fdet1-2.fna.fbcdn.net/v/t39.30808-6/240395982_936576133559798_5791903422477440529_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=973b4a&_nc_ohc=L2zcqiwq8v8AX8Ne3N5&_nc_ht=scontent.fdet1-2.fna&oh=6aec3af1aa43868e7d61db4653886894&oe=6194D3E5"); }
+  .img3 { background-image: url("https://scontent.fdet1-2.fna.fbcdn.net/v/t1.6435-9/66950058_455924511624965_8760440352655015936_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=973b4a&_nc_ohc=N0WTIgwcdggAX8T9RxI&_nc_ht=scontent.fdet1-2.fna&oh=7e525a20a3ddd7b8f0658a887eb42d5f&oe=61B64E37"); }
+  .img4 {background-image: url("https://scontent.fdet1-2.fna.fbcdn.net/v/t1.6435-9/74366286_506516589899090_4647152041586589696_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=973b4a&_nc_ohc=fLXJdzbNv2AAX98nvMQ&_nc_ht=scontent.fdet1-2.fna&oh=1a37e2344eb1e3ec59df77e540abfb6a&oe=61B58079")}
 
   .Tour {
     color: black;
